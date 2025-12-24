@@ -22,4 +22,17 @@
 *   **Ссылка**: [Я, если вы не подпишите лабу](https://vm.tiktok.com/ZMDF1gW93/)
 *   **Изображение**:
     ![...](https://github.com/user-attachments/assets/8f6a8711-c260-4b0c-beea-31557ca129c7)
+## 5. Пример исходного кода на C++
+
+Ниже приведен пример классической программы на языке C++, которая выводит приветствие в консоль:
+
+```cpp
+#include <iostream>
+
+int main() {
+    // Вывод текста на экран
+    std::cout << "Hello, Markdown world!" << std::endl;
+    
+    return 0;
+}
 

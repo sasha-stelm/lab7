@@ -21,5 +21,5 @@
 *   **Ссылка**: [Я, если вы подпишите лабу](https://vm.tiktok.com/ZMDF17HEm/)
 *   **Ссылка**: [Я, если вы не подпишите лабу](https://vm.tiktok.com/ZMDF1gW93/)
 *   **Изображение**:
-    ![...]((https://github.com/user-attachments/assets/8f6a8711-c260-4b0c-beea-31557ca129c7)
-)
+    ![...](https://github.com/user-attachments/assets/8f6a8711-c260-4b0c-beea-31557ca129c7)
+
